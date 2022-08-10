@@ -120,7 +120,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 2033307200,
+  "duration": 3203674900,
   "status": "passed"
 });
 formatter.scenario({
@@ -184,7 +184,7 @@ formatter.match({
   "location": "StepsDefinition.user_is_on_the_techfios_login_page()"
 });
 formatter.result({
-  "duration": 576235800,
+  "duration": 649056800,
   "status": "passed"
 });
 formatter.match({
@@ -197,7 +197,7 @@ formatter.match({
   "location": "StepsDefinition.user_enters_the_username(String)"
 });
 formatter.result({
-  "duration": 3095909900,
+  "duration": 3142505100,
   "status": "passed"
 });
 formatter.match({
@@ -210,35 +210,35 @@ formatter.match({
   "location": "StepsDefinition.user_enters_password_as(String)"
 });
 formatter.result({
-  "duration": 3084237500,
+  "duration": 3093445600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepsDefinition.user_clicks_on()"
 });
 formatter.result({
-  "duration": 3713325800,
+  "duration": 3980792600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepsDefinition.user_should_land_on_dashboard_page()"
 });
 formatter.result({
-  "duration": 39200200,
+  "duration": 36148700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepsDefinition.user_clicks_on_bankCash()"
 });
 formatter.result({
-  "duration": 52951900,
+  "duration": 50231500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepsDefinition.user_clicks_on_newAccount()"
 });
 formatter.result({
-  "duration": 259875300,
+  "duration": 284692700,
   "status": "passed"
 });
 formatter.match({
@@ -251,7 +251,7 @@ formatter.match({
   "location": "StepsDefinition.user_enters_in_accounts_page(String)"
 });
 formatter.result({
-  "duration": 71666100,
+  "duration": 114359900,
   "status": "passed"
 });
 });
